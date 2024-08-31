@@ -33,6 +33,7 @@ try:
     page = 1
     with alive_bar(487) as bar:
         while True:
+            bar()
             while old_cards == cards:
                 cards_container = WebDriverWait(driver, 10).until(
                     expected_conditions.presence_of_element_located((By.CSS_SELECTOR, "div[class*='fact-check-cards-container']")),
@@ -71,7 +72,6 @@ try:
             if page == 487:
                 break
             page += 1
-            bar()
 finally:
     for file in files.values():
         file.close()
