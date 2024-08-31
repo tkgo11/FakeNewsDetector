@@ -15,12 +15,12 @@ options.add_argument("--incognito")
 
 # Initialize files
 files = {
-    "사실": open("사실.txt", "w", encoding="utf-8"),
-    "대체로 사실": open("대체로 사실.txt", "w", encoding="utf-8"),
-    "절반의 사실": open("절반의 사실.txt", "w", encoding="utf-8"),
-    "대체로 사실 아님": open("대체로 사실 아님.txt", "w", encoding="utf-8"),
-    "전혀 사실 아님": open("전혀 사실 아님.txt", "w", encoding="utf-8"),
-    "판단 유보": open("판단 유보.txt", "w", encoding="utf-8")
+    "사실": open("data/사실.txt", "w", encoding="utf-8"),
+    "대체로 사실": open("data/대체로 사실.txt", "w", encoding="utf-8"),
+    "절반의 사실": open("data/절반의 사실.txt", "w", encoding="utf-8"),
+    "대체로 사실 아님": open("data/대체로 사실 아님.txt", "w", encoding="utf-8"),
+    "전혀 사실 아님": open("data/전혀 사실 아님.txt", "w", encoding="utf-8"),
+    "판단 유보": open("data/판단 유보.txt", "w", encoding="utf-8")
 }
 
 def process_page(driver, page):
