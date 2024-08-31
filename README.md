@@ -6,6 +6,8 @@ FakeNewsDetector는 웹에서 사실 확인 데이터를 수집하고 분류하�
     각 카테고리별로 텍스트 파일에 저장
 ## 사용 방법
 ```
+git clone https://github.com/tkgo11/FakeNewsDetector
+cd FakeNewsDetector
 python -m pip install -r requirements.txt
 python main.py
 python model.py
