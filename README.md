@@ -12,3 +12,5 @@ python -m pip install -r requirements.txt
 python main.py
 python model.py
 ```
+## 참고한 코드
+    [grab-selector](https://github.com/adam-kov/grab-selector)
