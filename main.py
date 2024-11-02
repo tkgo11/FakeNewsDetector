@@ -14,7 +14,6 @@ options.add_argument('--disable-gpu')
 options.add_argument("--incognito")
 driver = webdriver.Chrome(options=options)
 
-# Initialize files
 files = {
     "사실": open("data/사실.txt", "w", encoding="utf-8"),
     "대체로 사실": open("data/대체로 사실.txt", "w", encoding="utf-8"),
@@ -75,4 +74,4 @@ try:
 finally:
     for file in files.values():
         file.close()
-    driver.quit()  # 브라우저 종료
+    driver.quit()
