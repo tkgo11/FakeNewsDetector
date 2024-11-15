@@ -25,6 +25,7 @@
 - [Getting Started](#getting-started)
 	- [Prerequisites](#prerequisites)
 	- [Installation](#installation)
+	- [Chrome Extension Installation](#chrome-extension-installation)
 	- [Usage](#usage)
 - [Project Roadmap](#project-roadmap)
 - [Contributing](#contributing)
@@ -192,6 +193,27 @@ Install FakeNewsDetector using one of the following methods:
 ```sh
 ❯ pip install -r requirements.txt
 ```
+
+### Chrome Extension Installation
+
+To install the `news-selector` Chrome extension, follow these steps:
+
+1. **Open Chrome Extensions Page:**
+   - Open Google Chrome and navigate to `chrome://extensions/`.
+
+2. **Enable Developer Mode:**
+   - In the top right corner, toggle the "Developer mode" switch to enable it.
+
+3. **Load Unpacked Extension:**
+   - Click on the "Load unpacked" button.
+   - Select the `news-selector` directory from the `FakeNewsDetector` project folder.
+
+4. **Verify Installation:**
+   - Ensure the `news-selector` extension appears in the list of installed extensions.
+   - You should see the extension icon in the Chrome toolbar.
+
+5. **Usage:**
+   - Click on the `news-selector` icon in the toolbar to activate the extension.
 
 ###  Usage
 Run FakeNewsDetector using the following command:
