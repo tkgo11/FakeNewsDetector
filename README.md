@@ -13,4 +13,4 @@ python main.py
 python model.py
 ```
 ## 참고한 코드
-    [grab-selector](https://github.com/adam-kov/grab-selector)
+[grab-selector](https://github.com/adam-kov/grab-selector)
