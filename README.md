@@ -213,7 +213,7 @@ FakeNewsDetector를 시작하기 전에 실행 환경이 다음 요구 사항을
 
 - **💬 [Discussions 참여하기](https://github.com/tkgo11/FakeNewsDetector/discussions)**: 인사이트를 공유하고, 피드백을 제공하거나 질문하세요.
 - **🐛 [Issues 보고하기](https://github.com/tkgo11/FakeNewsDetector/issues)**: `FakeNewsDetector` 프로젝트에 대한 버그를 제출하거나 기능 요청을 기록하세요.
-- **💡 [Pull requests 제출하기](https://github.com/tkgo11/FakeNewsDetector/blob/main/CONTRIBUTING.md)**: 열린 PR을 검토하고, 자신의 PR을 제출하세요.
+- **💡 [Pull requests 제출하기](https://github.com/tkgo11/FakeNewsDetector/pulls)**: 열린 PR을 검토하고, 자신의 PR을 제출하세요.
 
 <details closed>
 <summary>기여 가이드라인</summary>
