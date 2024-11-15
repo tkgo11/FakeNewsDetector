@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-ko-red.svg)](https://github.com/tkgo11/FakeNewsDetector/blob/main/README-en.md)
 <p align="center">
     <img src="icon.png" align="center" width="30%">
 </p>
