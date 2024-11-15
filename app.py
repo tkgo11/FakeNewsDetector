@@ -84,6 +84,7 @@ def generate_selector():
     cos_similar = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
     print("코사인 유사도:", cos_similar[0][0])
     
+    #비교값을 뭘 기준으로 할지 모르겠음
     if cos_similar[0][0] > 0.1:
         result = "해당 뉴스는 사실입니다."
     elif cos_similar[0][0] > 0.05:
