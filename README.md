@@ -1,8 +1,8 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/tkgo11/FakeNewsDetector/blob/main/README-en.md)
+[![CodeFactor](https://www.codefactor.io/repository/github/tkgo11/fakenewsdetector/badge)](https://www.codefactor.io/repository/github/tkgo11/fakenewsdetector)
 <p align="center">
     <img src="icon.png" align="center" width="30%">
 </p>
-[![CodeFactor](https://www.codefactor.io/repository/github/tkgo11/fakenewsdetector/badge)](https://www.codefactor.io/repository/github/tkgo11/fakenewsdetector)
 <p align="center"><h1 align="center">FAKENEWSDETECTOR</h1></p>
 <p align="center">
 	<!-- 로컬 저장소, 메타데이터 배지 없음. --></p>
