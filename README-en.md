@@ -1,5 +1,6 @@
 [![en](https://img.shields.io/badge/lang-ko-red.svg)](https://github.com/tkgo11/FakeNewsDetector/blob/main/README-en.md)
 [![CodeFactor](https://www.codefactor.io/repository/github/tkgo11/fakenewsdetector/badge)](https://www.codefactor.io/repository/github/tkgo11/fakenewsdetector)
+[![DeepScan grade](https://deepscan.io/api/teams/25817/projects/28679/branches/923749/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=25817&pid=28679&bid=923749)
 <p align="center">
     <img src="icon.png" align="center" width="30%">
 </p>
